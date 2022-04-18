@@ -26,3 +26,10 @@ build/*
 
 ## xcode specific
 *xcuserdata*
+
+## xmake 
+/build
+/.xmake
+
+## Vscode
+.vscode
